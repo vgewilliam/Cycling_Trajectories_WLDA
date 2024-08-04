@@ -66,11 +66,11 @@ Run the `Weight_lda.py` script
 
 ## Route Recommendation
 
-- **Recommend_Route_Sampling.py**: Script for route recommendation.
+- **`Recommend_Route_Sampling.py`**: Script for route recommendation.
 
 ## PCoA of Topics
 
-- **Topic_PCoA.py**: Script for the Topics' distance visualization
+- **`Topic_PCoA.py`**: Script for the Topics' distance visualization
 
 ## Visualize Topics
 
