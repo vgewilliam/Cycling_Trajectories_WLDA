@@ -74,8 +74,10 @@ Run the `Weight_lda.py` script
 
 ## Visualize Topics
 
+```
 pic = pyLDAvis.prepare(lda.phi, lda.theta, dpre.doc_lengths, dpre.vacab,  dpre.term_freqs)
 pyLDAvis.save_html(pic, 'lda_pass' + str(len(lda.phi)) + '.html')
+```
 
 
 
