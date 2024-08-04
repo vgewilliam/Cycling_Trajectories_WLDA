@@ -12,9 +12,13 @@ For compatibility reasons, the Python version used for this project is Python 3.
 
 1. **Create a virtual environment**:
 
-   - you can use the existing ".venv" which we already set up, or delete it to create a new ".venv" using the command:
+   - you can create a new ".venv" using the command:
      ```
-     python -m venv .venv or python3 -m venv .venv
+     python -m venv .venv
+     ```
+     or
+     ```
+     python3 -m venv .venv
      ```
 
 2. **Activate the virtual environment**:
