@@ -32,3 +32,35 @@
 2024-07-15 22:31:59,172 INFO document-word-topic assignment results have been saved to D:\Github\Cycling_Trajectories_WLDA\data\tmp\model_tassign.dat
 2024-07-15 22:31:59,227 INFO Model training completed
 2024-07-15 22:32:00,633 INFO Topic_output saved!
+2024-08-04 15:15:51,447 INFO Load text data......
+2024-08-04 15:15:51,449 DEBUG Load is complete, ready to generate the dictionary object....
+2024-08-04 15:15:51,478 INFO Total 1016 of documents
+2024-08-04 15:15:51,479 INFO The relationship between words and numbers has been saved to D:\Github\Cycling_Trajectories_WLDA\data\tmp\wordidmap.dat
+2024-08-04 15:15:51,480 INFO Load weights data......
+2024-08-04 15:16:31,018 INFO Iteration completed
+2024-08-04 15:16:31,019 DEBUG Calculating document-topic distribution
+2024-08-04 15:16:31,022 DEBUG Calculating topic-word distribution
+2024-08-04 15:16:31,022 DEBUG Save models
+2024-08-04 15:16:31,022 INFO document-topic distribution has been saved to D:\Github\Cycling_Trajectories_WLDA\data\tmp\model_theta.dat
+2024-08-04 15:16:31,027 INFO topic-word distribution has been saved to D:\Github\Cycling_Trajectories_WLDA\data\tmp\model_phi.dat
+2024-08-04 15:16:31,029 INFO parameters have been saved to D:\Github\Cycling_Trajectories_WLDA\data\tmp\model_parameter.dat
+2024-08-04 15:16:31,030 INFO topN words have been saved to D:\Github\Cycling_Trajectories_WLDA\data\tmp\model_twords.dat
+2024-08-04 15:16:31,032 INFO document-word-topic assignment results have been saved to D:\Github\Cycling_Trajectories_WLDA\data\tmp\model_tassign.dat
+2024-08-04 15:16:31,082 INFO Model training completed
+2024-08-04 15:16:32,738 INFO Topic_output saved!
+2024-08-04 15:39:14,101 INFO Load text data......
+2024-08-04 15:39:14,103 DEBUG Load is complete, ready to generate the dictionary object....
+2024-08-04 15:39:14,132 INFO Total 1016 of documents
+2024-08-04 15:39:14,133 INFO The relationship between words and numbers has been saved to D:\Github\Cycling_Trajectories_WLDA\data\tmp\wordidmap.dat
+2024-08-04 15:39:14,134 INFO Load weights data......
+2024-08-04 15:39:51,797 INFO Iteration completed
+2024-08-04 15:39:51,797 DEBUG Calculating document-topic distribution
+2024-08-04 15:39:51,799 DEBUG Calculating topic-word distribution
+2024-08-04 15:39:51,800 DEBUG Save models
+2024-08-04 15:39:51,800 INFO document-topic distribution has been saved to D:\Github\Cycling_Trajectories_WLDA\data\tmp\model_theta.dat
+2024-08-04 15:39:51,805 INFO topic-word distribution has been saved to D:\Github\Cycling_Trajectories_WLDA\data\tmp\model_phi.dat
+2024-08-04 15:39:51,806 INFO parameters have been saved to D:\Github\Cycling_Trajectories_WLDA\data\tmp\model_parameter.dat
+2024-08-04 15:39:51,807 INFO topN words have been saved to D:\Github\Cycling_Trajectories_WLDA\data\tmp\model_twords.dat
+2024-08-04 15:39:51,809 INFO document-word-topic assignment results have been saved to D:\Github\Cycling_Trajectories_WLDA\data\tmp\model_tassign.dat
+2024-08-04 15:39:51,860 INFO Model training completed
+2024-08-04 15:39:53,306 INFO Topic_output saved!
