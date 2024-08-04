@@ -1,0 +1,172 @@
+bridleway	0
+cycleway	1
+footway	2
+living_street	3
+path	4
+primary	5
+residential	6
+secondary	7
+service	8
+steps	9
+tertiary	10
+track	11
+unclassified	12
+Continuous urban fabric	13
+Discontinuous urban fabric	14
+Industrial or commercial units	15
+Road and rail networks and associated land	16
+Green urban areas	17
+Sport and leisure facilities	18
+Non-irrigated arable land	19
+Pastures	20
+Broad-leaved forest	21
+Mixed forest	22
+Water courses	23
+atm	24
+bakery	25
+bench	26
+beverages	27
+biergarten	28
+camera_surveillance	29
+department_store	30
+doctors	31
+fast_food	32
+hairdresser	33
+kiosk	34
+laundry	35
+library	36
+market_place	37
+memorial	38
+pharmacy	39
+pitch	40
+post_box	41
+recycling_clothes	42
+recycling_glass	43
+restaurant	44
+shelter	45
+telephone	46
+tourist_info	47
+vending_any	48
+vending_cigarette	49
+veterinary	50
+waste_basket	51
+water_well	52
+wayside_cross	53
+construction	54
+pedestrian	55
+primary_link	56
+secondary_link	57
+tertiary_link	58
+Coniferous forest	59
+Transitional woodland-shrub	60
+Water bodies	61
+artwork	62
+attraction	63
+bank	64
+bar	65
+bicycle_rental	66
+bookshop	67
+cafe	68
+car_sharing	69
+chalet	70
+chemist	71
+cinema	72
+clothes	73
+college	74
+convenience	75
+dentist	76
+doityourself	77
+florist	78
+fountain	79
+garden_centre	80
+greengrocer	81
+hotel	82
+kindergarten	83
+museum	84
+optician	85
+playground	86
+post_office	87
+pub	88
+recycling	89
+shoe_shop	90
+toilet	91
+tower	92
+university	93
+vending_parking	94
+viewpoint	95
+bicycle_shop	96
+butcher	97
+castle	98
+community_centre	99
+jeweller	100
+stationery	101
+supermarket	102
+water_mill	103
+wayside_shrine	104
+archaeological	105
+arts_centre	106
+beauty_shop	107
+car_dealership	108
+car_wash	109
+clinic	110
+drinking_water	111
+embassy	112
+furniture_shop	113
+gift_shop	114
+guesthouse	115
+hostel	116
+mobile_phone_shop	117
+nightclub	118
+police	119
+ruins	120
+school	121
+sports_shop	122
+theatre	123
+toy_shop	124
+travel_agent	125
+Port areas	126
+computer_shop	127
+picnic_site	128
+comms_tower	129
+car_rental	130
+newsagent	131
+sports_centre	132
+video_shop	133
+nursing_home	134
+Mineral extraction sites	135
+Dump sites	136
+dog_park	137
+mall	138
+outdoor_shop	139
+vending_machine	140
+Natural grasslands	141
+Construction sites	142
+Fruit trees and berry plantations	143
+fire_station	144
+hunting_stand	145
+town_hall	146
+Sparsely vegetated areas	147
+fort	148
+recycling_paper	149
+courthouse	150
+food_court	151
+monument	152
+platform	153
+Moors and heathland	154
+caravan_site	155
+Airports	156
+swimming_pool	157
+general	158
+hospital	159
+trunk	160
+park	161
+Vineyards	162
+wastewater_plant	163
+observation_tower	164
+water_works	165
+Bare rocks	166
+trunk_link	167
+motel	168
+water_tower	169
+recycling_metal	170
+battlefield	171

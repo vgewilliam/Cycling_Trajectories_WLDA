@@ -1,0 +1,30 @@
+2024-06-25 12:53:59,358 INFO Load text data......
+2024-06-25 12:53:59,410 DEBUG Load is complete, ready to generate the dictionary object....
+2024-06-25 12:53:59,441 INFO Total 1016 of documents
+2024-06-25 12:53:59,442 INFO The relationship between words and numbers has been saved to E:\DATA\younessAndWeilian\Cycling_Trajectories_WLDA\data\tmp\wordidmap.dat
+2024-06-25 12:53:59,443 INFO Load weights data......
+2024-06-25 12:54:37,306 INFO Iteration completed
+2024-06-25 12:54:37,306 DEBUG Calculating document-topic distribution
+2024-06-25 12:54:37,309 DEBUG Calculating topic-word distribution
+2024-06-25 12:54:37,309 DEBUG Save models
+2024-06-25 12:54:37,309 INFO document-topic distribution has been saved to E:\DATA\younessAndWeilian\Cycling_Trajectories_WLDA\data\tmp\model_theta.dat
+2024-06-25 12:54:37,370 INFO topic-word distribution has been saved to E:\DATA\younessAndWeilian\Cycling_Trajectories_WLDA\data\tmp\model_phi.dat
+2024-06-25 12:54:37,372 INFO parameters have been saved to E:\DATA\younessAndWeilian\Cycling_Trajectories_WLDA\data\tmp\model_parameter.dat
+2024-06-25 12:54:37,372 INFO topN words have been saved to E:\DATA\younessAndWeilian\Cycling_Trajectories_WLDA\data\tmp\model_twords.dat
+2024-06-25 12:54:37,375 INFO document-word-topic assignment results have been saved to E:\DATA\younessAndWeilian\Cycling_Trajectories_WLDA\data\tmp\model_tassign.dat
+2024-06-25 12:54:37,436 INFO Model training completed
+2024-06-25 13:37:15,451 INFO Load text data......
+2024-06-25 13:37:15,454 DEBUG Load is complete, ready to generate the dictionary object....
+2024-06-25 13:37:15,485 INFO Total 1016 of documents
+2024-06-25 13:37:15,486 INFO The relationship between words and numbers has been saved to E:\DATA\younessAndWeilian\Cycling_Trajectories_WLDA\data\tmp\wordidmap.dat
+2024-06-25 13:37:15,487 INFO Load weights data......
+2024-06-25 13:37:51,686 INFO Iteration completed
+2024-06-25 13:37:51,686 DEBUG Calculating document-topic distribution
+2024-06-25 13:37:51,689 DEBUG Calculating topic-word distribution
+2024-06-25 13:37:51,689 DEBUG Save models
+2024-06-25 13:37:51,689 INFO document-topic distribution has been saved to E:\DATA\younessAndWeilian\Cycling_Trajectories_WLDA\data\tmp\model_theta.dat
+2024-06-25 13:37:51,704 INFO topic-word distribution has been saved to E:\DATA\younessAndWeilian\Cycling_Trajectories_WLDA\data\tmp\model_phi.dat
+2024-06-25 13:37:51,706 INFO parameters have been saved to E:\DATA\younessAndWeilian\Cycling_Trajectories_WLDA\data\tmp\model_parameter.dat
+2024-06-25 13:37:51,706 INFO topN words have been saved to E:\DATA\younessAndWeilian\Cycling_Trajectories_WLDA\data\tmp\model_twords.dat
+2024-06-25 13:37:51,708 INFO document-word-topic assignment results have been saved to E:\DATA\younessAndWeilian\Cycling_Trajectories_WLDA\data\tmp\model_tassign.dat
+2024-06-25 13:37:51,771 INFO Model training completed

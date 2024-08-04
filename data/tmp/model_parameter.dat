@@ -1,0 +1,5 @@
+K=3
+alpha=0.1
+beta=0.01
+Number of iterations  iter_times=50
+Top words  top_words_num=10

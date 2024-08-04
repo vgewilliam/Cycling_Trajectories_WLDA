@@ -1,0 +1,365 @@
+2024-07-11 09:45:50,585 INFO Load text data......
+2024-07-11 09:45:50,599 DEBUG Load is complete, ready to generate the dictionary object....
+2024-07-11 09:45:50,633 INFO Total 1016 of documents
+2024-07-11 09:45:50,635 INFO The relationship between words and numbers has been saved to E:\DATA\younessAndWeilian\Cycling_Trajectories_WLDA\data\tmp\wordidmap.dat
+2024-07-11 09:45:50,635 INFO Load weights data......
+2024-07-11 09:46:27,903 INFO Iteration completed
+2024-07-11 09:46:27,904 DEBUG Calculating document-topic distribution
+2024-07-11 09:46:27,907 DEBUG Calculating topic-word distribution
+2024-07-11 09:46:27,907 DEBUG Save models
+2024-07-11 09:46:27,907 INFO document-topic distribution has been saved to E:\DATA\younessAndWeilian\Cycling_Trajectories_WLDA\data\tmp\model_theta.dat
+2024-07-11 09:46:27,934 INFO topic-word distribution has been saved to E:\DATA\younessAndWeilian\Cycling_Trajectories_WLDA\data\tmp\model_phi.dat
+2024-07-11 09:46:27,936 INFO parameters have been saved to E:\DATA\younessAndWeilian\Cycling_Trajectories_WLDA\data\tmp\model_parameter.dat
+2024-07-11 09:46:27,936 INFO topN words have been saved to E:\DATA\younessAndWeilian\Cycling_Trajectories_WLDA\data\tmp\model_twords.dat
+2024-07-11 09:46:27,938 INFO document-word-topic assignment results have been saved to E:\DATA\younessAndWeilian\Cycling_Trajectories_WLDA\data\tmp\model_tassign.dat
+2024-07-11 09:46:28,002 INFO Model training completed
+2024-07-11 09:48:43,703 INFO Load text data......
+2024-07-11 09:48:43,705 DEBUG Load is complete, ready to generate the dictionary object....
+2024-07-11 09:48:43,736 INFO Total 1016 of documents
+2024-07-11 09:48:43,737 INFO The relationship between words and numbers has been saved to E:\DATA\younessAndWeilian\Cycling_Trajectories_WLDA\data\tmp\wordidmap.dat
+2024-07-11 09:48:43,738 INFO Load weights data......
+2024-07-11 09:49:21,128 INFO Iteration completed
+2024-07-11 09:49:21,129 DEBUG Calculating document-topic distribution
+2024-07-11 09:49:21,131 DEBUG Calculating topic-word distribution
+2024-07-11 09:49:21,131 DEBUG Save models
+2024-07-11 09:49:21,131 INFO document-topic distribution has been saved to E:\DATA\younessAndWeilian\Cycling_Trajectories_WLDA\data\tmp\model_theta.dat
+2024-07-11 09:49:21,147 INFO topic-word distribution has been saved to E:\DATA\younessAndWeilian\Cycling_Trajectories_WLDA\data\tmp\model_phi.dat
+2024-07-11 09:49:21,148 INFO parameters have been saved to E:\DATA\younessAndWeilian\Cycling_Trajectories_WLDA\data\tmp\model_parameter.dat
+2024-07-11 09:49:21,149 INFO topN words have been saved to E:\DATA\younessAndWeilian\Cycling_Trajectories_WLDA\data\tmp\model_twords.dat
+2024-07-11 09:49:21,151 INFO document-word-topic assignment results have been saved to E:\DATA\younessAndWeilian\Cycling_Trajectories_WLDA\data\tmp\model_tassign.dat
+2024-07-11 09:49:21,252 INFO Model training completed
+2024-07-11 11:36:38,331 INFO Load text data......
+2024-07-11 11:36:38,331 DEBUG Load is complete, ready to generate the dictionary object....
+2024-07-11 11:36:38,364 INFO Total 1016 of documents
+2024-07-11 11:36:38,368 INFO The relationship between words and numbers has been saved to C:\Teaching-HCU\Cycling_Trajectories_WLDA\data\tmp\wordidmap.dat
+2024-07-11 11:36:38,369 INFO Load weights data......
+2024-07-11 11:37:12,380 INFO Iteration completed
+2024-07-11 11:37:12,380 DEBUG Calculating document-topic distribution
+2024-07-11 11:37:12,380 DEBUG Calculating topic-word distribution
+2024-07-11 11:37:12,380 DEBUG Save models
+2024-07-11 11:37:12,380 INFO document-topic distribution has been saved to C:\Teaching-HCU\Cycling_Trajectories_WLDA\data\tmp\model_theta.dat
+2024-07-11 11:37:12,403 INFO topic-word distribution has been saved to C:\Teaching-HCU\Cycling_Trajectories_WLDA\data\tmp\model_phi.dat
+2024-07-11 11:37:12,406 INFO parameters have been saved to C:\Teaching-HCU\Cycling_Trajectories_WLDA\data\tmp\model_parameter.dat
+2024-07-11 11:37:12,406 INFO topN words have been saved to C:\Teaching-HCU\Cycling_Trajectories_WLDA\data\tmp\model_twords.dat
+2024-07-11 11:37:12,409 INFO document-word-topic assignment results have been saved to C:\Teaching-HCU\Cycling_Trajectories_WLDA\data\tmp\model_tassign.dat
+2024-07-11 11:37:12,483 INFO Model training completed
+2024-07-11 11:37:12,549 INFO Note: NumExpr detected 20 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2024-07-11 11:37:12,549 INFO NumExpr defaulting to 8 threads.
+2024-07-11 11:39:39,064 INFO Load text data......
+2024-07-11 11:39:39,064 DEBUG Load is complete, ready to generate the dictionary object....
+2024-07-11 11:39:39,081 INFO Total 1016 of documents
+2024-07-11 11:39:39,099 INFO The relationship between words and numbers has been saved to C:\Teaching-HCU\Cycling_Trajectories_WLDA\data\tmp\wordidmap.dat
+2024-07-11 11:39:39,099 INFO Load weights data......
+2024-07-11 11:40:14,326 INFO Iteration completed
+2024-07-11 11:40:14,326 DEBUG Calculating document-topic distribution
+2024-07-11 11:40:14,342 DEBUG Calculating topic-word distribution
+2024-07-11 11:40:14,343 DEBUG Save models
+2024-07-11 11:40:14,343 INFO document-topic distribution has been saved to C:\Teaching-HCU\Cycling_Trajectories_WLDA\data\tmp\model_theta.dat
+2024-07-11 11:40:14,345 INFO topic-word distribution has been saved to C:\Teaching-HCU\Cycling_Trajectories_WLDA\data\tmp\model_phi.dat
+2024-07-11 11:40:14,361 INFO parameters have been saved to C:\Teaching-HCU\Cycling_Trajectories_WLDA\data\tmp\model_parameter.dat
+2024-07-11 11:40:14,363 INFO topN words have been saved to C:\Teaching-HCU\Cycling_Trajectories_WLDA\data\tmp\model_twords.dat
+2024-07-11 11:40:14,368 INFO document-word-topic assignment results have been saved to C:\Teaching-HCU\Cycling_Trajectories_WLDA\data\tmp\model_tassign.dat
+2024-07-11 11:40:14,432 INFO Model training completed
+2024-07-11 12:58:32,648 INFO Load text data......
+2024-07-11 12:58:32,656 DEBUG Load is complete, ready to generate the dictionary object....
+2024-07-11 12:58:32,685 INFO Total 1016 of documents
+2024-07-11 12:58:32,686 INFO The relationship between words and numbers has been saved to D:\Github\Cycling_Trajectories_WLDA\data\tmp\wordidmap.dat
+2024-07-11 12:58:32,686 INFO Load weights data......
+2024-07-11 12:59:09,809 INFO Iteration completed
+2024-07-11 12:59:09,810 DEBUG Calculating document-topic distribution
+2024-07-11 12:59:09,813 DEBUG Calculating topic-word distribution
+2024-07-11 12:59:09,813 DEBUG Save models
+2024-07-11 12:59:09,813 INFO document-topic distribution has been saved to D:\Github\Cycling_Trajectories_WLDA\data\tmp\model_theta.dat
+2024-07-11 12:59:09,818 INFO topic-word distribution has been saved to D:\Github\Cycling_Trajectories_WLDA\data\tmp\model_phi.dat
+2024-07-11 12:59:09,820 INFO parameters have been saved to D:\Github\Cycling_Trajectories_WLDA\data\tmp\model_parameter.dat
+2024-07-11 12:59:09,820 INFO topN words have been saved to D:\Github\Cycling_Trajectories_WLDA\data\tmp\model_twords.dat
+2024-07-11 12:59:09,822 INFO document-word-topic assignment results have been saved to D:\Github\Cycling_Trajectories_WLDA\data\tmp\model_tassign.dat
+2024-07-11 12:59:09,871 INFO Model training completed
+2024-07-11 12:59:09,990 INFO Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2024-07-11 12:59:09,991 INFO NumExpr defaulting to 8 threads.
+2024-07-11 13:01:21,965 INFO Load text data......
+2024-07-11 13:01:21,967 DEBUG Load is complete, ready to generate the dictionary object....
+2024-07-11 13:01:21,995 INFO Total 1016 of documents
+2024-07-11 13:01:21,996 INFO The relationship between words and numbers has been saved to D:\Github\Cycling_Trajectories_WLDA\data\tmp\wordidmap.dat
+2024-07-11 13:01:21,997 INFO Load weights data......
+2024-07-11 13:01:59,768 INFO Iteration completed
+2024-07-11 13:01:59,768 DEBUG Calculating document-topic distribution
+2024-07-11 13:01:59,771 DEBUG Calculating topic-word distribution
+2024-07-11 13:01:59,772 DEBUG Save models
+2024-07-11 13:01:59,772 INFO document-topic distribution has been saved to D:\Github\Cycling_Trajectories_WLDA\data\tmp\model_theta.dat
+2024-07-11 13:01:59,777 INFO topic-word distribution has been saved to D:\Github\Cycling_Trajectories_WLDA\data\tmp\model_phi.dat
+2024-07-11 13:01:59,778 INFO parameters have been saved to D:\Github\Cycling_Trajectories_WLDA\data\tmp\model_parameter.dat
+2024-07-11 13:01:59,779 INFO topN words have been saved to D:\Github\Cycling_Trajectories_WLDA\data\tmp\model_twords.dat
+2024-07-11 13:01:59,781 INFO document-word-topic assignment results have been saved to D:\Github\Cycling_Trajectories_WLDA\data\tmp\model_tassign.dat
+2024-07-11 13:01:59,831 INFO Model training completed
+2024-07-11 13:03:23,921 INFO Load text data......
+2024-07-11 13:03:23,922 DEBUG Load is complete, ready to generate the dictionary object....
+2024-07-11 13:03:23,951 INFO Total 1016 of documents
+2024-07-11 13:03:23,952 INFO The relationship between words and numbers has been saved to D:\Github\Cycling_Trajectories_WLDA\data\tmp\wordidmap.dat
+2024-07-11 13:03:23,952 INFO Load weights data......
+2024-07-11 13:04:00,787 INFO Iteration completed
+2024-07-11 13:04:00,788 DEBUG Calculating document-topic distribution
+2024-07-11 13:04:00,791 DEBUG Calculating topic-word distribution
+2024-07-11 13:04:00,791 DEBUG Save models
+2024-07-11 13:04:00,791 INFO document-topic distribution has been saved to D:\Github\Cycling_Trajectories_WLDA\data\tmp\model_theta.dat
+2024-07-11 13:04:00,796 INFO topic-word distribution has been saved to D:\Github\Cycling_Trajectories_WLDA\data\tmp\model_phi.dat
+2024-07-11 13:04:00,797 INFO parameters have been saved to D:\Github\Cycling_Trajectories_WLDA\data\tmp\model_parameter.dat
+2024-07-11 13:04:00,798 INFO topN words have been saved to D:\Github\Cycling_Trajectories_WLDA\data\tmp\model_twords.dat
+2024-07-11 13:04:00,800 INFO document-word-topic assignment results have been saved to D:\Github\Cycling_Trajectories_WLDA\data\tmp\model_tassign.dat
+2024-07-11 13:04:00,849 INFO Model training completed
+2024-07-11 13:04:00,858 INFO Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2024-07-11 13:04:00,859 INFO NumExpr defaulting to 8 threads.
+2024-07-11 13:16:02,469 INFO Load text data......
+2024-07-11 13:16:02,471 DEBUG Load is complete, ready to generate the dictionary object....
+2024-07-11 13:16:02,501 INFO Total 1016 of documents
+2024-07-11 13:16:02,502 INFO The relationship between words and numbers has been saved to D:\Github\Cycling_Trajectories_WLDA\data\tmp\wordidmap.dat
+2024-07-11 13:16:02,502 INFO Load weights data......
+2024-07-11 13:16:39,182 INFO Iteration completed
+2024-07-11 13:16:39,183 DEBUG Calculating document-topic distribution
+2024-07-11 13:16:39,186 DEBUG Calculating topic-word distribution
+2024-07-11 13:16:39,186 DEBUG Save models
+2024-07-11 13:16:39,186 INFO document-topic distribution has been saved to D:\Github\Cycling_Trajectories_WLDA\data\tmp\model_theta.dat
+2024-07-11 13:16:39,191 INFO topic-word distribution has been saved to D:\Github\Cycling_Trajectories_WLDA\data\tmp\model_phi.dat
+2024-07-11 13:16:39,192 INFO parameters have been saved to D:\Github\Cycling_Trajectories_WLDA\data\tmp\model_parameter.dat
+2024-07-11 13:16:39,193 INFO topN words have been saved to D:\Github\Cycling_Trajectories_WLDA\data\tmp\model_twords.dat
+2024-07-11 13:16:39,195 INFO document-word-topic assignment results have been saved to D:\Github\Cycling_Trajectories_WLDA\data\tmp\model_tassign.dat
+2024-07-11 13:16:39,245 INFO Model training completed
+2024-07-11 13:16:39,284 INFO Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2024-07-11 13:16:39,284 INFO NumExpr defaulting to 8 threads.
+2024-07-11 14:06:17,626 INFO Load text data......
+2024-07-11 14:06:17,628 DEBUG Load is complete, ready to generate the dictionary object....
+2024-07-11 14:06:17,654 INFO Total 1016 of documents
+2024-07-11 14:06:17,655 INFO The relationship between words and numbers has been saved to D:\Github\Cycling_Trajectories_WLDA\data\tmp\wordidmap.dat
+2024-07-11 14:06:17,656 INFO Load weights data......
+2024-07-11 14:06:54,764 INFO Iteration completed
+2024-07-11 14:06:54,764 DEBUG Calculating document-topic distribution
+2024-07-11 14:06:54,767 DEBUG Calculating topic-word distribution
+2024-07-11 14:06:54,767 DEBUG Save models
+2024-07-11 14:06:54,767 INFO document-topic distribution has been saved to D:\Github\Cycling_Trajectories_WLDA\data\tmp\model_theta.dat
+2024-07-11 14:06:54,783 INFO topic-word distribution has been saved to D:\Github\Cycling_Trajectories_WLDA\data\tmp\model_phi.dat
+2024-07-11 14:06:54,785 INFO parameters have been saved to D:\Github\Cycling_Trajectories_WLDA\data\tmp\model_parameter.dat
+2024-07-11 14:06:54,786 INFO topN words have been saved to D:\Github\Cycling_Trajectories_WLDA\data\tmp\model_twords.dat
+2024-07-11 14:06:54,787 INFO document-word-topic assignment results have been saved to D:\Github\Cycling_Trajectories_WLDA\data\tmp\model_tassign.dat
+2024-07-11 14:06:54,851 INFO Model training completed
+2024-07-11 14:06:54,976 INFO Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2024-07-11 14:06:54,977 INFO NumExpr defaulting to 8 threads.
+2024-07-11 14:15:59,405 INFO Load text data......
+2024-07-11 14:15:59,407 DEBUG Load is complete, ready to generate the dictionary object....
+2024-07-11 14:15:59,436 INFO Total 1016 of documents
+2024-07-11 14:15:59,437 INFO The relationship between words and numbers has been saved to D:\Github\Cycling_Trajectories_WLDA\data\tmp\wordidmap.dat
+2024-07-11 14:15:59,437 INFO Load weights data......
+2024-07-11 14:16:36,751 INFO Iteration completed
+2024-07-11 14:16:36,752 DEBUG Calculating document-topic distribution
+2024-07-11 14:16:36,754 DEBUG Calculating topic-word distribution
+2024-07-11 14:16:36,755 DEBUG Save models
+2024-07-11 14:16:36,755 INFO document-topic distribution has been saved to D:\Github\Cycling_Trajectories_WLDA\data\tmp\model_theta.dat
+2024-07-11 14:16:36,760 INFO topic-word distribution has been saved to D:\Github\Cycling_Trajectories_WLDA\data\tmp\model_phi.dat
+2024-07-11 14:16:36,761 INFO parameters have been saved to D:\Github\Cycling_Trajectories_WLDA\data\tmp\model_parameter.dat
+2024-07-11 14:16:36,762 INFO topN words have been saved to D:\Github\Cycling_Trajectories_WLDA\data\tmp\model_twords.dat
+2024-07-11 14:16:36,764 INFO document-word-topic assignment results have been saved to D:\Github\Cycling_Trajectories_WLDA\data\tmp\model_tassign.dat
+2024-07-11 14:16:36,814 INFO Model training completed
+2024-07-11 14:16:36,846 INFO Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2024-07-11 14:16:36,847 INFO NumExpr defaulting to 8 threads.
+2024-07-11 14:30:56,748 INFO Load text data......
+2024-07-11 14:30:56,750 DEBUG Load is complete, ready to generate the dictionary object....
+2024-07-11 14:30:56,779 INFO Total 1016 of documents
+2024-07-11 14:30:56,780 INFO The relationship between words and numbers has been saved to D:\Github\Cycling_Trajectories_WLDA\data\tmp\wordidmap.dat
+2024-07-11 14:30:56,781 INFO Load weights data......
+2024-07-11 14:41:25,217 INFO Load text data......
+2024-07-11 14:41:25,219 DEBUG Load is complete, ready to generate the dictionary object....
+2024-07-11 14:41:25,249 INFO Total 1016 of documents
+2024-07-11 14:41:25,250 INFO The relationship between words and numbers has been saved to D:\Github\Cycling_Trajectories_WLDA\data\tmp\wordidmap.dat
+2024-07-11 14:41:25,251 INFO Load weights data......
+2024-07-11 14:42:02,538 INFO Iteration completed
+2024-07-11 14:42:02,539 DEBUG Calculating document-topic distribution
+2024-07-11 14:42:02,542 DEBUG Calculating topic-word distribution
+2024-07-11 14:42:02,542 DEBUG Save models
+2024-07-11 14:42:02,542 INFO document-topic distribution has been saved to D:\Github\Cycling_Trajectories_WLDA\data\tmp\model_theta.dat
+2024-07-11 14:42:02,547 INFO topic-word distribution has been saved to D:\Github\Cycling_Trajectories_WLDA\data\tmp\model_phi.dat
+2024-07-11 14:42:02,549 INFO parameters have been saved to D:\Github\Cycling_Trajectories_WLDA\data\tmp\model_parameter.dat
+2024-07-11 14:42:02,549 INFO topN words have been saved to D:\Github\Cycling_Trajectories_WLDA\data\tmp\model_twords.dat
+2024-07-11 14:42:02,551 INFO document-word-topic assignment results have been saved to D:\Github\Cycling_Trajectories_WLDA\data\tmp\model_tassign.dat
+2024-07-11 14:42:02,600 INFO Model training completed
+2024-07-11 14:42:02,610 INFO Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2024-07-11 14:42:02,610 INFO NumExpr defaulting to 8 threads.
+2024-07-11 14:42:58,813 INFO Load text data......
+2024-07-11 14:42:58,815 DEBUG Load is complete, ready to generate the dictionary object....
+2024-07-11 14:42:58,843 INFO Total 1016 of documents
+2024-07-11 14:42:58,844 INFO The relationship between words and numbers has been saved to D:\Github\Cycling_Trajectories_WLDA\data\tmp\wordidmap.dat
+2024-07-11 14:42:58,845 INFO Load weights data......
+2024-07-11 14:43:35,561 INFO Iteration completed
+2024-07-11 14:43:35,562 DEBUG Calculating document-topic distribution
+2024-07-11 14:43:35,565 DEBUG Calculating topic-word distribution
+2024-07-11 14:43:35,565 DEBUG Save models
+2024-07-11 14:43:35,565 INFO document-topic distribution has been saved to D:\Github\Cycling_Trajectories_WLDA\data\tmp\model_theta.dat
+2024-07-11 14:43:35,570 INFO topic-word distribution has been saved to D:\Github\Cycling_Trajectories_WLDA\data\tmp\model_phi.dat
+2024-07-11 14:43:35,571 INFO parameters have been saved to D:\Github\Cycling_Trajectories_WLDA\data\tmp\model_parameter.dat
+2024-07-11 14:43:35,572 INFO topN words have been saved to D:\Github\Cycling_Trajectories_WLDA\data\tmp\model_twords.dat
+2024-07-11 14:43:35,574 INFO document-word-topic assignment results have been saved to D:\Github\Cycling_Trajectories_WLDA\data\tmp\model_tassign.dat
+2024-07-11 14:43:35,622 INFO Model training completed
+2024-07-11 14:52:08,048 INFO Load text data......
+2024-07-11 14:52:08,050 DEBUG Load is complete, ready to generate the dictionary object....
+2024-07-11 14:52:08,079 INFO Total 1016 of documents
+2024-07-11 14:52:08,080 INFO The relationship between words and numbers has been saved to D:\Github\Cycling_Trajectories_WLDA\data\tmp\wordidmap.dat
+2024-07-11 14:52:08,081 INFO Load weights data......
+2024-07-11 14:52:45,313 INFO Iteration completed
+2024-07-11 14:52:45,314 DEBUG Calculating document-topic distribution
+2024-07-11 14:52:45,317 DEBUG Calculating topic-word distribution
+2024-07-11 14:52:45,317 DEBUG Save models
+2024-07-11 14:52:45,317 INFO document-topic distribution has been saved to D:\Github\Cycling_Trajectories_WLDA\data\tmp\model_theta.dat
+2024-07-11 14:52:45,322 INFO topic-word distribution has been saved to D:\Github\Cycling_Trajectories_WLDA\data\tmp\model_phi.dat
+2024-07-11 14:52:45,323 INFO parameters have been saved to D:\Github\Cycling_Trajectories_WLDA\data\tmp\model_parameter.dat
+2024-07-11 14:52:45,324 INFO topN words have been saved to D:\Github\Cycling_Trajectories_WLDA\data\tmp\model_twords.dat
+2024-07-11 14:52:45,326 INFO document-word-topic assignment results have been saved to D:\Github\Cycling_Trajectories_WLDA\data\tmp\model_tassign.dat
+2024-07-11 14:52:45,378 INFO Model training completed
+2024-07-11 15:04:35,366 INFO Load text data......
+2024-07-11 15:04:35,369 DEBUG Load is complete, ready to generate the dictionary object....
+2024-07-11 15:04:35,398 INFO Total 1016 of documents
+2024-07-11 15:04:35,399 INFO The relationship between words and numbers has been saved to D:\Github\Cycling_Trajectories_WLDA\data\tmp\wordidmap.dat
+2024-07-11 15:04:35,399 INFO Load weights data......
+2024-07-11 15:05:12,649 INFO Iteration completed
+2024-07-11 15:05:12,650 DEBUG Calculating document-topic distribution
+2024-07-11 15:05:12,652 DEBUG Calculating topic-word distribution
+2024-07-11 15:05:12,653 DEBUG Save models
+2024-07-11 15:05:12,653 INFO document-topic distribution has been saved to D:\Github\Cycling_Trajectories_WLDA\data\tmp\model_theta.dat
+2024-07-11 15:05:12,658 INFO topic-word distribution has been saved to D:\Github\Cycling_Trajectories_WLDA\data\tmp\model_phi.dat
+2024-07-11 15:05:12,659 INFO parameters have been saved to D:\Github\Cycling_Trajectories_WLDA\data\tmp\model_parameter.dat
+2024-07-11 15:05:12,660 INFO topN words have been saved to D:\Github\Cycling_Trajectories_WLDA\data\tmp\model_twords.dat
+2024-07-11 15:05:12,661 INFO document-word-topic assignment results have been saved to D:\Github\Cycling_Trajectories_WLDA\data\tmp\model_tassign.dat
+2024-07-11 15:05:12,711 INFO Model training completed
+2024-07-11 15:06:00,062 INFO Load text data......
+2024-07-11 15:06:00,064 DEBUG Load is complete, ready to generate the dictionary object....
+2024-07-11 15:06:00,094 INFO Total 1016 of documents
+2024-07-11 15:06:00,095 INFO The relationship between words and numbers has been saved to D:\Github\Cycling_Trajectories_WLDA\data\tmp\wordidmap.dat
+2024-07-11 15:06:00,095 INFO Load weights data......
+2024-07-11 15:06:37,730 INFO Iteration completed
+2024-07-11 15:06:37,730 DEBUG Calculating document-topic distribution
+2024-07-11 15:06:37,733 DEBUG Calculating topic-word distribution
+2024-07-11 15:06:37,733 DEBUG Save models
+2024-07-11 15:06:37,734 INFO document-topic distribution has been saved to D:\Github\Cycling_Trajectories_WLDA\data\tmp\model_theta.dat
+2024-07-11 15:06:37,738 INFO topic-word distribution has been saved to D:\Github\Cycling_Trajectories_WLDA\data\tmp\model_phi.dat
+2024-07-11 15:06:37,740 INFO parameters have been saved to D:\Github\Cycling_Trajectories_WLDA\data\tmp\model_parameter.dat
+2024-07-11 15:06:37,740 INFO topN words have been saved to D:\Github\Cycling_Trajectories_WLDA\data\tmp\model_twords.dat
+2024-07-11 15:06:37,742 INFO document-word-topic assignment results have been saved to D:\Github\Cycling_Trajectories_WLDA\data\tmp\model_tassign.dat
+2024-07-11 15:06:37,790 INFO Model training completed
+2024-07-11 15:06:39,213 INFO Topic_output saved!
+2024-07-11 15:06:53,767 INFO Load text data......
+2024-07-11 15:06:53,769 DEBUG Load is complete, ready to generate the dictionary object....
+2024-07-11 15:06:53,797 INFO Total 1016 of documents
+2024-07-11 15:06:53,798 INFO The relationship between words and numbers has been saved to D:\Github\Cycling_Trajectories_WLDA\data\tmp\wordidmap.dat
+2024-07-11 15:06:53,799 INFO Load weights data......
+2024-07-11 15:07:31,084 INFO Iteration completed
+2024-07-11 15:07:31,084 DEBUG Calculating document-topic distribution
+2024-07-11 15:07:31,087 DEBUG Calculating topic-word distribution
+2024-07-11 15:07:31,087 DEBUG Save models
+2024-07-11 15:07:31,087 INFO document-topic distribution has been saved to D:\Github\Cycling_Trajectories_WLDA\data\tmp\model_theta.dat
+2024-07-11 15:07:31,092 INFO topic-word distribution has been saved to D:\Github\Cycling_Trajectories_WLDA\data\tmp\model_phi.dat
+2024-07-11 15:07:31,094 INFO parameters have been saved to D:\Github\Cycling_Trajectories_WLDA\data\tmp\model_parameter.dat
+2024-07-11 15:07:31,094 INFO topN words have been saved to D:\Github\Cycling_Trajectories_WLDA\data\tmp\model_twords.dat
+2024-07-11 15:07:31,096 INFO document-word-topic assignment results have been saved to D:\Github\Cycling_Trajectories_WLDA\data\tmp\model_tassign.dat
+2024-07-11 15:07:31,145 INFO Model training completed
+2024-07-11 15:07:31,184 INFO Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2024-07-11 15:07:31,185 INFO NumExpr defaulting to 8 threads.
+2024-07-11 15:07:34,432 INFO Topic_output saved!
+2024-07-11 16:21:18,344 INFO Load text data......
+2024-07-11 16:21:18,352 DEBUG Load is complete, ready to generate the dictionary object....
+2024-07-11 16:21:18,379 INFO Total 1016 of documents
+2024-07-11 16:21:18,380 INFO The relationship between words and numbers has been saved to D:\Github\Cycling_Trajectories_WLDA\data\tmp\wordidmap.dat
+2024-07-11 16:21:18,381 INFO Load weights data......
+2024-07-11 16:21:56,251 INFO Iteration completed
+2024-07-11 16:21:56,251 DEBUG Calculating document-topic distribution
+2024-07-11 16:21:56,254 DEBUG Calculating topic-word distribution
+2024-07-11 16:21:56,254 DEBUG Save models
+2024-07-11 16:21:56,254 INFO document-topic distribution has been saved to D:\Github\Cycling_Trajectories_WLDA\data\tmp\model_theta.dat
+2024-07-11 16:21:56,270 INFO topic-word distribution has been saved to D:\Github\Cycling_Trajectories_WLDA\data\tmp\model_phi.dat
+2024-07-11 16:21:56,278 INFO parameters have been saved to D:\Github\Cycling_Trajectories_WLDA\data\tmp\model_parameter.dat
+2024-07-11 16:21:56,278 INFO topN words have been saved to D:\Github\Cycling_Trajectories_WLDA\data\tmp\model_twords.dat
+2024-07-11 16:21:56,280 INFO document-word-topic assignment results have been saved to D:\Github\Cycling_Trajectories_WLDA\data\tmp\model_tassign.dat
+2024-07-11 16:21:56,344 INFO Model training completed
+2024-07-11 16:21:57,258 INFO Topic_output saved!
+2024-07-11 16:22:21,720 INFO Load text data......
+2024-07-11 16:22:21,722 DEBUG Load is complete, ready to generate the dictionary object....
+2024-07-11 16:22:21,749 INFO Total 1016 of documents
+2024-07-11 16:22:21,750 INFO The relationship between words and numbers has been saved to D:\Github\Cycling_Trajectories_WLDA\data\tmp\wordidmap.dat
+2024-07-11 16:22:21,750 INFO Load weights data......
+2024-07-11 16:22:59,691 INFO Iteration completed
+2024-07-11 16:22:59,691 DEBUG Calculating document-topic distribution
+2024-07-11 16:22:59,694 DEBUG Calculating topic-word distribution
+2024-07-11 16:22:59,694 DEBUG Save models
+2024-07-11 16:22:59,694 INFO document-topic distribution has been saved to D:\Github\Cycling_Trajectories_WLDA\data\tmp\model_theta.dat
+2024-07-11 16:22:59,711 INFO topic-word distribution has been saved to D:\Github\Cycling_Trajectories_WLDA\data\tmp\model_phi.dat
+2024-07-11 16:22:59,712 INFO parameters have been saved to D:\Github\Cycling_Trajectories_WLDA\data\tmp\model_parameter.dat
+2024-07-11 16:22:59,713 INFO topN words have been saved to D:\Github\Cycling_Trajectories_WLDA\data\tmp\model_twords.dat
+2024-07-11 16:22:59,714 INFO document-word-topic assignment results have been saved to D:\Github\Cycling_Trajectories_WLDA\data\tmp\model_tassign.dat
+2024-07-11 16:22:59,779 INFO Model training completed
+2024-07-11 16:22:59,812 INFO Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2024-07-11 16:22:59,812 INFO NumExpr defaulting to 8 threads.
+2024-07-11 17:07:04,453 INFO Load text data......
+2024-07-11 17:07:04,455 DEBUG Load is complete, ready to generate the dictionary object....
+2024-07-11 17:07:04,483 INFO Total 1016 of documents
+2024-07-11 17:07:04,484 INFO The relationship between words and numbers has been saved to D:\Github\Cycling_Trajectories_WLDA\data\tmp\wordidmap.dat
+2024-07-11 17:07:04,485 INFO Load weights data......
+2024-07-11 17:07:42,908 INFO Iteration completed
+2024-07-11 17:07:42,908 DEBUG Calculating document-topic distribution
+2024-07-11 17:07:42,911 DEBUG Calculating topic-word distribution
+2024-07-11 17:07:42,911 DEBUG Save models
+2024-07-11 17:07:42,912 INFO document-topic distribution has been saved to D:\Github\Cycling_Trajectories_WLDA\data\tmp\model_theta.dat
+2024-07-11 17:07:42,916 INFO topic-word distribution has been saved to D:\Github\Cycling_Trajectories_WLDA\data\tmp\model_phi.dat
+2024-07-11 17:07:42,918 INFO parameters have been saved to D:\Github\Cycling_Trajectories_WLDA\data\tmp\model_parameter.dat
+2024-07-11 17:07:42,918 INFO topN words have been saved to D:\Github\Cycling_Trajectories_WLDA\data\tmp\model_twords.dat
+2024-07-11 17:07:42,920 INFO document-word-topic assignment results have been saved to D:\Github\Cycling_Trajectories_WLDA\data\tmp\model_tassign.dat
+2024-07-11 17:07:42,970 INFO Model training completed
+2024-07-11 17:07:44,486 INFO Topic_output saved!
+2024-07-11 17:16:49,122 INFO Load text data......
+2024-07-11 17:16:49,129 DEBUG Load is complete, ready to generate the dictionary object....
+2024-07-11 17:16:49,159 INFO Total 1016 of documents
+2024-07-11 17:16:49,161 INFO The relationship between words and numbers has been saved to D:\Github\Cycling_Trajectories_WLDA\data\tmp\wordidmap.dat
+2024-07-11 17:16:49,161 INFO Load weights data......
+2024-07-11 17:17:27,856 INFO Iteration completed
+2024-07-11 17:17:27,856 DEBUG Calculating document-topic distribution
+2024-07-11 17:17:27,859 DEBUG Calculating topic-word distribution
+2024-07-11 17:17:27,860 DEBUG Save models
+2024-07-11 17:17:27,860 INFO document-topic distribution has been saved to D:\Github\Cycling_Trajectories_WLDA\data\tmp\model_theta.dat
+2024-07-11 17:17:27,865 INFO topic-word distribution has been saved to D:\Github\Cycling_Trajectories_WLDA\data\tmp\model_phi.dat
+2024-07-11 17:17:27,866 INFO parameters have been saved to D:\Github\Cycling_Trajectories_WLDA\data\tmp\model_parameter.dat
+2024-07-11 17:17:27,867 INFO topN words have been saved to D:\Github\Cycling_Trajectories_WLDA\data\tmp\model_twords.dat
+2024-07-11 17:17:27,869 INFO document-word-topic assignment results have been saved to D:\Github\Cycling_Trajectories_WLDA\data\tmp\model_tassign.dat
+2024-07-11 17:17:27,918 INFO Model training completed
+2024-07-11 17:17:27,951 INFO Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2024-07-11 17:17:27,951 INFO NumExpr defaulting to 8 threads.
+2024-07-11 17:17:37,993 INFO Load text data......
+2024-07-11 17:17:37,995 DEBUG Load is complete, ready to generate the dictionary object....
+2024-07-11 17:17:38,024 INFO Total 1016 of documents
+2024-07-11 17:17:38,025 INFO The relationship between words and numbers has been saved to D:\Github\Cycling_Trajectories_WLDA\data\tmp\wordidmap.dat
+2024-07-11 17:17:38,026 INFO Load weights data......
+2024-07-11 17:18:16,262 INFO Iteration completed
+2024-07-11 17:18:16,262 DEBUG Calculating document-topic distribution
+2024-07-11 17:18:16,265 DEBUG Calculating topic-word distribution
+2024-07-11 17:18:16,265 DEBUG Save models
+2024-07-11 17:18:16,265 INFO document-topic distribution has been saved to D:\Github\Cycling_Trajectories_WLDA\data\tmp\model_theta.dat
+2024-07-11 17:18:16,270 INFO topic-word distribution has been saved to D:\Github\Cycling_Trajectories_WLDA\data\tmp\model_phi.dat
+2024-07-11 17:18:16,272 INFO parameters have been saved to D:\Github\Cycling_Trajectories_WLDA\data\tmp\model_parameter.dat
+2024-07-11 17:18:16,273 INFO topN words have been saved to D:\Github\Cycling_Trajectories_WLDA\data\tmp\model_twords.dat
+2024-07-11 17:18:16,274 INFO document-word-topic assignment results have been saved to D:\Github\Cycling_Trajectories_WLDA\data\tmp\model_tassign.dat
+2024-07-11 17:18:16,326 INFO Model training completed
+2024-07-11 17:18:17,795 INFO Topic_output saved!
+2024-07-11 17:18:17,805 INFO Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2024-07-11 17:18:17,805 INFO NumExpr defaulting to 8 threads.
+2024-07-11 17:19:01,846 INFO Load text data......
+2024-07-11 17:19:01,848 DEBUG Load is complete, ready to generate the dictionary object....
+2024-07-11 17:19:01,878 INFO Total 1016 of documents
+2024-07-11 17:19:01,879 INFO The relationship between words and numbers has been saved to D:\Github\Cycling_Trajectories_WLDA\data\tmp\wordidmap.dat
+2024-07-11 17:19:01,879 INFO Load weights data......
+2024-07-11 17:19:40,424 INFO Iteration completed
+2024-07-11 17:19:40,425 DEBUG Calculating document-topic distribution
+2024-07-11 17:19:40,428 DEBUG Calculating topic-word distribution
+2024-07-11 17:19:40,428 DEBUG Save models
+2024-07-11 17:19:40,428 INFO document-topic distribution has been saved to D:\Github\Cycling_Trajectories_WLDA\data\tmp\model_theta.dat
+2024-07-11 17:19:40,433 INFO topic-word distribution has been saved to D:\Github\Cycling_Trajectories_WLDA\data\tmp\model_phi.dat
+2024-07-11 17:19:40,434 INFO parameters have been saved to D:\Github\Cycling_Trajectories_WLDA\data\tmp\model_parameter.dat
+2024-07-11 17:19:40,435 INFO topN words have been saved to D:\Github\Cycling_Trajectories_WLDA\data\tmp\model_twords.dat
+2024-07-11 17:19:40,437 INFO document-word-topic assignment results have been saved to D:\Github\Cycling_Trajectories_WLDA\data\tmp\model_tassign.dat
+2024-07-11 17:19:40,487 INFO Model training completed
+2024-07-11 17:19:41,950 INFO Topic_output saved!
+2024-07-11 17:19:41,960 INFO Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2024-07-11 17:19:41,960 INFO NumExpr defaulting to 8 threads.
