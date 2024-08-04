@@ -1,6 +1,10 @@
 Here is the source code for the article entitled "*Informed sampling and recommendation of cycling routes: leveraging crowd-sourced trajectories with weighted-latent Dirichlet allocation*"
 
-## Python version
+## Hardware Requirement
+
+This code was run on Lenovo Legion R9000P2021H. The processor is an AMD Ryzen 7 5800H with Radeon Graphics, 16 GB memory, and NVIDIA GeForce RTX 3060 Laptop GPU 6 GB.
+
+## Python Version
 
 For compatibility reasons, the Python version used for this project is Python 3.7.6, which you can download via this link: https://www.python.org/downloads/release/python-376/
 
