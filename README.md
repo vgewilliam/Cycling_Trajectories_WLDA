@@ -2,7 +2,7 @@ Here is the source code for the article entitled "*Informed sampling and recomme
 
 ## Hardware Requirement
 
-This code was run on Lenovo Legion R9000P2021H. The processor is an AMD Ryzen 7 5800H with Radeon Graphics, 16 GB memory, and NVIDIA GeForce RTX 3060 Laptop GPU 6 GB.
+This code was executed on Lenovo Legion R9000P2021H. The processor is an AMD Ryzen 7 5800H with Radeon Graphics, 16 GB memory, and NVIDIA GeForce RTX 3060 Laptop GPU 6 GB. Given that the dataset used in this project is relatively small, we believe it can be run on a PC without a GPU as well.
 
 ## Python Version
 
