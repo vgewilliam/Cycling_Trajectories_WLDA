@@ -1,4 +1,4 @@
-Here is the source code for the article entitled "*Informed sampling and recommendation of cycling routes: leveraging crowd-sourced trajectories with weighted-latent Dirichlet allocation*".
+Here is the source code for the article entitled "*Informed sampling and recommendation of cycling routes: leveraging crowd-sourced trajectories with weighted-latent Dirichlet allocation*". If you have any questions, please contact <li.weilian@hcu-hamburg.de> or <youness.dehbi@hcu-hamburg.de>.
 
 ## Hardware Requirements
 
